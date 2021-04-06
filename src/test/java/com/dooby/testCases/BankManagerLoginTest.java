@@ -19,7 +19,7 @@ public class BankManagerLoginTest extends TestBase {
 
 		System.out.println("inside try catche");
 
-		Thread.sleep(5000);
+		Thread.sleep(1000);
 
 		log.debug("Inside the Login test !!!");
 
