@@ -22,6 +22,8 @@ public class TestHostAdd {
 		System.out.println(msgBody);
 
 		mail.sendMail(TestConfig.server, TestConfig.from, TestConfig.to, TestConfig.subject, msgBody);
+		
+		//Testing the EGIT options
 	
 
 	}
