@@ -15,7 +15,7 @@ public class BankManagerLoginTest extends TestBase {
 
 		System.setProperty("org.uncommons.reportng.escape-output", "false");
 		
-		verifyEquals("xyx", "yzy");
+	//	verifyEquals("xyx", "yzy");
 
 		System.out.println("inside try catche");
 
