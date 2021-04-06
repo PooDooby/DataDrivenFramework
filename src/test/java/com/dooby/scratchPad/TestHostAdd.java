@@ -23,7 +23,7 @@ public class TestHostAdd {
 
 		mail.sendMail(TestConfig.server, TestConfig.from, TestConfig.to, TestConfig.subject, msgBody);
 		
-		//Testing the EGIT options
+		//Testing the EGIT options adding few lines to check it again ---------
 	
 
 	}
