@@ -1,6 +1,6 @@
 DEBUG devpinoyLogger - (TestBase.java:62) Config file loaded !!!
 DEBUG devpinoyLogger - (TestBase.java:78) OR file loaded !!!
-DEBUG devpinoyLogger - (TestBase.java:114) Chrome launched !!!
+DEBUG devpinoyLogger - (TestBase.java:107) Firefox launched !!!
 DEBUG devpinoyLogger - (TestBase.java:136) Navigateed to :http://www.way2automation.com/angularjs-protractor/banking/#/login
 DEBUG devpinoyLogger - (BankManagerLoginTest.java:24) Inside the Login test !!!
 DEBUG devpinoyLogger - (BankManagerLoginTest.java:31) the Login test  executed successfully !!!

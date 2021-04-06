@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="6.536">
+           time="3.217">
   <properties />
   
   
-            <testcase name="bankManagerLoginTest" time="6.536" classname="com.dooby.testCases.BankManagerLoginTest" />
+            <testcase name="bankManagerLoginTest" time="3.217" classname="com.dooby.testCases.BankManagerLoginTest" />
       
 </testsuite>

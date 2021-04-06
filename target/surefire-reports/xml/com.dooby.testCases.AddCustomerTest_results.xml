@@ -4,15 +4,15 @@
            failures="0"
            errors="0"
            skipped="1"
-           time="23.843">
+           time="23.915">
   <properties />
   
             <testcase name="addCustomerTest" time="0.0" classname="com.dooby.testCases.AddCustomerTest">
           <skipped />
     </testcase>
   
-            <testcase name="addCustomerTest" time="7.213" classname="com.dooby.testCases.AddCustomerTest" />
-                <testcase name="addCustomerTest" time="7.218" classname="com.dooby.testCases.AddCustomerTest" />
-                <testcase name="addCustomerTest" time="7.411" classname="com.dooby.testCases.AddCustomerTest" />
+            <testcase name="addCustomerTest" time="7.305" classname="com.dooby.testCases.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="7.298" classname="com.dooby.testCases.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="7.311" classname="com.dooby.testCases.AddCustomerTest" />
       
 </testsuite>

@@ -15,7 +15,7 @@ public class BankManagerLoginTest extends TestBase {
 
 		System.setProperty("org.uncommons.reportng.escape-output", "false");
 		
-	//	verifyEquals("xyx", "yzy");
+		verifyEquals("xyx", "yzy");
 
 		System.out.println("inside try catche");
 
@@ -32,7 +32,7 @@ public class BankManagerLoginTest extends TestBase {
 
 	//	Assert.fail("Failing the test to test Liteners");
 
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 
 	}
 }

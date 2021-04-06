@@ -13,7 +13,7 @@
 		<classes>
 			<class name="com.dooby.testCases.BankManagerLoginTest" />
 		</classes>
-	</test> <!-- Test -->
+	</test> <!-- Test we -->
 
 	<test name=" Add Customer Test">
 		<classes>
